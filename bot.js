@@ -4,14 +4,14 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("532987248476553216")
+let channel =     client.channels.get("546055617010204704")
 setInterval(function() {
-channel.send(`**Moataz spam , Moataz spam , Moataz spam , Moataz spam Moataz spamMoataz spamMoataz spamMoataz spamMoataz spamMoataz spamMoataz spamMoataz spamMoataz spamMoataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moataz spam , Moatazspam , Moataz, Moataz,Moataz** ,`);
+channel.send(`**The_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSSThe_1BOSS** ,`);
 }, 30)
 })
 
 client.on('message', message => {
- if(message.author.id !== "414100163448274947" )return;
+ if(message.author.id !== "489069393305665568" )return;
 
 let command = "1say"
 
